@@ -20,13 +20,13 @@
 
 ## 🖼 Preview
 
-![Drafting & Project Management Features](https://cloud.chiefarchitect.com/1/images/whats-new/x16/drafting-project-management-features-1270x714.jpg)  
+![Drafting & Project Management Features](https://forums-cdn.chiefarchitect.com/chieftalk/monthly_2021_02/322269198_ScreenShot2021-02-25at4_50_26PM.png.fde7021f0a5d30e491ebe61feb3f1d94.png)  
 *Powerful drafting tools and productivity options*
 
 ![Dollhouse and Watercolor View](https://cloud.chiefarchitect.com/1/images/product-pages/premier/bachelor-view-dollhouse-with-plan-watercolor-841x439.jpg)  
 *Interior view and 2D plan combined in one workspace*
 
-![Productivity & Efficiency Tools](https://cloud.chiefarchitect.com/1/images/whats-new/x16/chief-architect-x16-productivity-features-1269x714.jpg)  
+![Productivity & Efficiency Tools](https://cloud.chiefarchitect.com/1/images/whats-new/x16/presentation-features-1270x638.jpg)  
 *Advanced performance features in offline mode*
 
 ### 🔎 SEO Keywords
